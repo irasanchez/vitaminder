@@ -24,4 +24,5 @@ yarn-error.log*
 
 
 # editor settings
-/.vscode
+.vscode/
+settings.json
